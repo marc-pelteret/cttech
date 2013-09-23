@@ -10,7 +10,7 @@ _Tech in Cape Town_
 * Cape Town Clojure User Group | [Website](http://www.siliconcape.com/group/clojure-ct)
 * Cape Town Front-end Developers | [Meetup Group](http://www.meetup.com/ctfeds/) / [Google Group](https://groups.google.com/forum/#%21forum/ctfeds)
 * Cape Town Google Technology User Group | [Website](http://www.capetown-gtug.org/)
-* Cape Town iOS Developers | [Meetup Group](http://www.meetup.com/ios-ct/)
+* Cape Town iOS Developers | [Meetup Group](http://www.meetup.com/ios-ct/) / [Facebook Group](https://www.facebook.com/groups/capetownios/)
 * Cape Town Java User Group | [Website](http://www.ctjug.org.za/) (Not loading - error)
 * Cape Town Joomla! User Group | [Website](http://community.joomla.org/user-groups/africa/south-africa/joomla-user-group-cape-town.html)
 * Cape Town MongoDB User Group | [Meetup Group](http://www.meetup.com/Cape-Town-MongoDB-User-Group/)
