@@ -21,6 +21,7 @@ _Tech in Cape Town_
 * Code&Coffee Cape Town | [Meetup Group](http://www.meetup.com/Code-Coffee-Cape-Town/)
 * Code Craftmanship | [Meetup Group](http://www.meetup.com/Code-Craftsmanship/)
 * Drupal South Africa Community | [Website](http://drupal.co.za/)
+* Helderberg Software Developers and Entrepeneurs | [Meetup Group](http://www.meetup.com/Helderberg-Software-Developers-and-Entrepeneurs/)
 * Make Games SA | [Website](http://makegamessa.com/)
 * Maties Computing Club | [Website](http://www.cs.sun.ac.za/plus/club/)
 * Maties Developers | [Facebook Group](https://www.facebook.com/groups/176671682412976/)
