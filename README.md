@@ -18,6 +18,7 @@ _Tech in Cape Town_
 * Cape Town Python User Group | [Google Group](https://groups.google.com/forum/#%21forum/ctpug) / [Meetup Group](http://www.meetup.com/Cape-Town-Python-Users-Group-CTPUG/)
 * Cape Town Software Developers | [Meetup Group](http://www.meetup.com/Cape-Town-Software-Developers/)
 * Cape Town Software Process Improvement Network (CT SPIN) | [Website](http://www.spin.org.za/)
+* Cape Town Umbraco Meetup | [Meetup Group](http://www.meetup.com/Cape-Town-Umbraco-Meetup/)
 * Code&Coffee Cape Town | [Meetup Group](http://www.meetup.com/Code-Coffee-Cape-Town/)
 * Code Craftmanship | [Meetup Group](http://www.meetup.com/Code-Craftsmanship/)
 * Drupal South Africa Community | [Website](http://drupal.co.za/)
