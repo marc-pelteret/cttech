@@ -26,9 +26,10 @@ _Tech in Cape Town_
 * Make Games SA | [Website](http://makegamessa.com/)
 * Maties Computing Club | [Website](http://www.cs.sun.ac.za/plus/club/)
 * Maties Developers | [Facebook Group](https://www.facebook.com/groups/176671682412976/)
-* Node Cape Town | [WEbsite](http://nodecpt.github.io/) / [Google Group](https://groups.google.com/forum/#%21forum/nodecpt)
+* Node Cape Town | [Website](http://nodecpt.github.io/) / [Google Group](https://groups.google.com/forum/#%21forum/nodecpt)
 * Plone and Pyramid, South Africa | [Google Group](https://groups.google.com/forum/#%21forum/plonesa)
 rub
+* RailsBridge Cape Town | [Website](http://railsbridgecapetown.org/)
 * Ruby Brigade | [Website](http://capetownrb.org/) / [Google Group](https://groups.google.com/forum/#%21forum/cape-town-ruby-brigade) / [Facebook Group](https://www.facebook.com/groups/116343568402300/)
 * SA Game Developer Community | [Google Group](https://groups.google.com/forum/#%21forum/sagamedevelopercommunity)
 * Scrum User Group of South Africa (SUGSA) | [Website](http://sugsa.org.za/)
