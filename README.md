@@ -19,6 +19,7 @@ _Tech in Cape Town_
 * Cape Town Software Developers | [Meetup Group](http://www.meetup.com/Cape-Town-Software-Developers/)
 * Cape Town Software Process Improvement Network (CT SPIN) | [Website](http://www.spin.org.za/)
 * Cape Town Umbraco Meetup | [Meetup Group](http://www.meetup.com/Cape-Town-Umbraco-Meetup/)
+* Cape Town Xamarin Users Group | [Meetup Group](http://www.meetup.com/Cape-Town-Xamarin-Users-Group/)
 * Code&Coffee Cape Town | [Meetup Group](http://www.meetup.com/Code-Coffee-Cape-Town/)
 * Code Craftmanship | [Meetup Group](http://www.meetup.com/Code-Craftsmanship/)
 * Drupal South Africa Community | [Website](http://drupal.co.za/)
