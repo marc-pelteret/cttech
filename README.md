@@ -52,7 +52,7 @@ _Tech in Cape Town_
 
 ###Regular Events
 
-* Hack Stellenbosch (#hackSTB) | [Twitter](https://twitter.com/hackstb)
+* Hack Stellenbosch (#hackSTB) | [Facebook Group](https://www.facebook.com/groups/hackstb/) / [Twitter](https://twitter.com/hackstb)
 * Girl Geek Dinners Cape Town | [Website](http://ggdcpt.wordpress.com/)
 
 ###Annual Conferences
