@@ -5,7 +5,6 @@ _Tech in Cape Town_
 
 
 * Architecture Meetup | [Facebook Group](https://www.facebook.com/groups/152645364863021/) / [Google Group](https://groups.google.com/forum/#%21forum/architecture-cpt)
-* Cape Town Software Developers | [Meetup Group](http://www.meetup.com/Cape-Town-Software-Developers/)
 * Cape Linux Users' Group (CLUG) | [Website](http://wiki.clug.org.za/)
 * Cape Town Clojure User Group | [Website](http://www.siliconcape.com/group/clojure-ct)
 * Cape Town Front-end Developers | [Meetup Group](http://www.meetup.com/ctfeds/) / [Google Group](https://groups.google.com/forum/#%21forum/ctfeds)
@@ -27,7 +26,7 @@ _Tech in Cape Town_
 * Make Games SA Cape Town | [Meetup Group](http://www.meetup.com/Make-Games-Cape-Town/) / [Website](http://makegamessa.com/)
 * Maties Computing Club | [Website](http://www.cs.sun.ac.za/plus/club/)
 * Maties Developers | [Facebook Group](https://www.facebook.com/groups/176671682412976/)
-* NodeJD Cape Town | [Website](http://nodecpt.github.io/) / [Google Group](https://groups.google.com/forum/#%21forum/nodecpt) / [Meetup Group](http://www.meetup.com/nodecpt/)
+* NodeJS Cape Town | [Website](http://nodecpt.github.io/) / [Google Group](https://groups.google.com/forum/#%21forum/nodecpt) / [Meetup Group](http://www.meetup.com/nodecpt/)
 * Plone and Pyramid, South Africa | [Google Group](https://groups.google.com/forum/#%21forum/plonesa)
 * RailsBridge Cape Town | [Website](http://railsbridgecapetown.org/)
 * Ruby Brigade | [Website](http://capetownrb.org/) / [Google Group](https://groups.google.com/forum/#%21forum/cape-town-ruby-brigade) / [Facebook Group](https://www.facebook.com/groups/116343568402300/)
