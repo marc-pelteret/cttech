@@ -3,6 +3,9 @@ cttech
 
 _Tech in Cape Town_
 
+This list is no longer maintained. For an up to date list, please visit [CPTDEV](http://www.cptdev.co.za/).
+
+----------
 
 * Architecture Meetup | [Facebook Group](https://www.facebook.com/groups/152645364863021/) / [Google Group](https://groups.google.com/forum/#%21forum/architecture-cpt)
 * Cape Linux Users' Group (CLUG) | [Website](http://wiki.clug.org.za/)
